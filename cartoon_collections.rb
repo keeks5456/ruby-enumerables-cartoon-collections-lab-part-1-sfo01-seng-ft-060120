@@ -3,5 +3,6 @@ def greet_characters(array)
 end
 
 def list_dwarves(array)
+  index = 1 
  array.
 end
